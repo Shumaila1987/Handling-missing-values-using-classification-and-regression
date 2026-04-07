@@ -1,0 +1,2 @@
+# Handling-missing-values-using-classification-and-regression
+The project focuses on handling missing values in the Titanic dataset a of a comprehensive data preprocessing and ML workflow. In real-world datasets, missing data is a common challenge that can negatively impact the performance  of predictive models. So, applying imputation techniques is essential to ensure data quality and improve model accuracy.
